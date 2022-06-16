@@ -1,0 +1,1 @@
+[{"$match":{"$and":[{},{"playlist_name":{"$regex":{}}}]}},{"$lookup":{"from":"users","localField":"created_by","foreignField":"_id","as":"song_name"}},{"$match":{"song_name.name":{"$regex":{}}}}]
