@@ -1,6 +1,6 @@
 ## Project API Using GraphQL [Awesome] - Open Music
 
-> This project was just made for fun, to add to my portfolio. I hope if I have more time I can finish this project quickly
+> Finally open music api using graphql I have finished making it with expressjs, nodejs and using the mongodb database
 
 Owner [https://aryawardanna.site]
 
@@ -13,7 +13,6 @@ Owner [https://aryawardanna.site]
 ## Running Migration & Seeder
 
 > npm install
-> create database mongodb
 
 ## Role
 
